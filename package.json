@@ -1,0 +1,23 @@
+{
+  "name": "WechatBook",
+  "version": "1.0.0",
+  "description": "something about wechat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengshiqi1998/WechatBook.git"
+  },
+  "keywords": [],
+  "author": "fengshiqi1998",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengshiqi1998/WechatBook/issues"
+  },
+  "homepage": "https://github.com/fengshiqi1998/WechatBook#readme",
+  "devDependencies":{
+    "gitbook-cli":"^2.3.2"
+  }
+}
